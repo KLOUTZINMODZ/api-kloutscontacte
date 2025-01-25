@@ -1,5 +1,5 @@
 function openWhatsApp() {
-    window.open("https://wa.me/5521996455700?text=Gostaria+De+Entrar+Em+Contato.", "_blank");
+    window.open("https://wa.me/5521997837889?text=Gostaria+De+Entrar+Em+Contato.", "_blank");
 }
 
 window.onload = function() {
